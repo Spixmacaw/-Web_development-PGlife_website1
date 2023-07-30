@@ -44,4 +44,6 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileepsahoo)](https://github.com/dileepsahoo/github-readme-stats)
  
