@@ -44,11 +44,9 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
-![Dileepsahoo's Stats](https://github-readme-stats.vercel.app/api?username=Dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dileepsahoo's Stats](https://github-readme-stats.vercel.app/api?username=Dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![dileepsahoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dileepsahoo&theme=tokyonight&hide_border=true)
 
-![dileepsahoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dileepsahoo&theme=tokyonight&hide_border=true)
-
-![dileepsahoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=dileepsahoo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![dileepsahoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/ username=dileepsahoo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
