@@ -5,7 +5,7 @@ It allows users to explore available PG options, view details, and connect with 
 
 verfy:
 
-click this--> https://github.com/dileepsahoo/-Web_development-PGlife_website1.git
+click this--> https://github.com/Spixmacaw/-Web_development-PGlife_website1.git
 
 >where: 
 This website referral url.
@@ -44,9 +44,11 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
-![Dileepsahoo's Stats](https://github-readme-stats.vercel.app/api?username=Dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![dileepsahoo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dileepsahoo&theme=tokyonight&hide_border=true)
+![ Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)!
 
-![dileepsahoo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepsahoo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Spixmacaw Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
