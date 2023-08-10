@@ -44,7 +44,7 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
-![ Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Spixmacaw Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Spixmacaw Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
